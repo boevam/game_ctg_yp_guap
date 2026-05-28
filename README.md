@@ -8,13 +8,10 @@
 Управление основано на клавишах управления курсором и space.
 
 # СКРИНШОТЫ
-
-<img width="591" height="449" alt="image" src="https://github.com/user-attachments/assets/2177eb0b-51b7-4abf-b96e-4d6ee1580b84" />
-
+<img width="550" height="425" alt="image" src="https://github.com/user-attachments/assets/41a0c938-e1fe-4070-8cf2-ef80bfde7d1d" />
 
 Начало игры
 
-
-<img width="591" height="459" alt="image" src="https://github.com/user-attachments/assets/06fe493a-78f8-49a3-bd07-c11f807a16df" />
+<img width="1238" height="964" alt="image" src="https://github.com/user-attachments/assets/976765c5-2ef9-416a-8f01-ab463c52a135" />
 
 Окно проигрыша и итогов
